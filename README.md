@@ -20,7 +20,7 @@ These libraries are used in this project and install with latest version availab
 
 === Description ===
 
-This is simple python project where a user can scrape the based on his wish to select keyword or hashtag or username, one can able to see the data in the form of dataframe when he click on the button,One can upload those scraped tweets into database and download them as csv and json format files
+This is simple python project where a user can scrape the based on his wish to select keyword or hashtag or username, one can able to see the data in the form of dataframe when he click on the button,One can upload those scraped tweets into database and download them as csv and json format files(I have uploaded the example files also one can see how the data is getting downloaded)
 
 === Development ===
 
